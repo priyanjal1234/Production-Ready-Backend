@@ -1,0 +1,1 @@
+# This is the backend project which will follow all the norms of advanced and production ready folder structure of any backend project 
